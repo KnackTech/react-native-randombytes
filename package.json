@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "buffer": "^4.9.1",
-    "sjcl": "1.0.6"
+    "sjcl": "^1.0.7"
   },
   "repository": {
     "type": "git",
