@@ -18,6 +18,10 @@
     "buffer": "^4.9.1",
     "sjcl": "1.0.6"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KnackTech/react-native-randombytes.git"
+  },
   "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
   "license": "ISC"
 }
