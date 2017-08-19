@@ -14,6 +14,9 @@ Pod::Spec.new do |s|
   s.license      = spec['license']
   s.homepage     = spec['homepage']
   s.platform     = :ios, "8.0"
+  s.authors      = {
+                     'David' => 'joinknack.com',
+                   }
   s.source       = { spec['repository']['type'].to_sym => spec['repository']['url'].sub(/^[a-z]+\+/, '') }
   s.source_files = [ "ios/*.h", "ios/*.m"]
   s.dependency 'React'
