@@ -23,5 +23,6 @@
     "url": "git+https://github.com/KnackTech/react-native-randombytes.git"
   },
   "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/mvayngrib/react-native-randombytes"
 }
